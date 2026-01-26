@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769409828960-m2bikzbch",
+  "title": "Write daily work summary",
+  "titleGenerationStatus": "success",
+  "createdAt": 1769409828962,
+  "updatedAt": 1769409902586,
+  "lastResponseAt": 1769409902586,
+  "sessionId": "83e96736-e258-4f2c-974d-a7331ec8f73d",
+  "sdkSessionId": "83e96736-e258-4f2c-974d-a7331ec8f73d",
+  "currentNote": "2026-01-04.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 31,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32652,
+    "contextWindow": 200000,
+    "contextTokens": 32683,
+    "percentage": 16
+  }
+}
