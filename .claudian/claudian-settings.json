@@ -1,7 +1,7 @@
 {
   "userName": "",
   "permissionMode": "yolo",
-  "model": "opus[1m]",
+  "model": "glm-5.1",
   "thinkingBudget": "medium",
   "effortLevel": "high",
   "serviceTier": "default",
@@ -22,7 +22,7 @@
   "locale": "zh-CN",
   "providerConfigs": {
     "claude": {
-      "safeMode": "acceptEdits",
+      "safeMode": "auto",
       "cliPath": "",
       "cliPathsByHost": {
         "zhangzhw-hw": "C:\\Users\\zhang\\AppData\\Local\\nvm\\v22.10.0\\claude.cmd"
@@ -32,7 +32,7 @@
       "enableBangBash": true,
       "enableOpus1M": true,
       "enableSonnet1M": true,
-      "customModels": "",
+      "customModels": "glm-5.1",
       "lastModel": "opus[1m]",
       "environmentVariables": "",
       "environmentHash": ""
@@ -54,7 +54,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "opus[1m]"
+    "claude": "glm-5.1"
   },
   "savedProviderEffort": {
     "claude": "high"
@@ -66,11 +66,11 @@
   "savedProviderPermissionMode": {
     "claude": "yolo"
   },
-  "lastCustomModel": "",
+  "lastCustomModel": "glm-5.1",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
   "deferMathRenderingDuringStreaming": true,
-  "chatViewPlacement": "right-sidebar",
+  "chatViewPlacement": "main-tab",
   "hiddenProviderCommands": {}
 }
